@@ -3,15 +3,15 @@
              x:Class="MolkkyPistelaskuSovellus.MainPage">
 
     <StackLayout>
-        <Label Text="Tervetuloa Mölkky-pistelaskusovellukseen!" HorizontalTextAlignment="Center" FontSize="18"/>
+        <Label Text="Tervetuloa Mölkky-pistelaskusovellukseen!" HorizontalTextAlignment="Center" FontSize="20"/>
 
-        <Entry x:Name="pelaajatEntry" Placeholder="Syötä pelaajien nimet (erottele pilkulla)" FontSize="24" />
+        <Entry x:Name="pelaajatEntry" Placeholder="Syötä pelaajien nimet (erottele pilkulla)" FontSize="16" />
 
         <Button x:Name="syotaPelaajatButton" Text="Syötä pelaajat" Clicked="OnSyotaPelaajatButtonClicked" FontSize="18" />
 
         <Entry x:Name="kaadetutKeilatEntry" Placeholder="Syötä kaadetut keilat (esim. '0-12')" IsVisible="False" FontSize="18" />
 
-        <Button x:Name="heitaButton" Text="Heitä" Clicked="OnHeitaButtonClicked" IsVisible="False" FontSize="18" />
+        <Button x:Name="heitaButton" Text="Lisää pisteet" Clicked="OnHeitaButtonClicked" IsVisible="False" FontSize="18" />
 
         <Label x:Name="pisteetLabel" FontSize="16" />
 

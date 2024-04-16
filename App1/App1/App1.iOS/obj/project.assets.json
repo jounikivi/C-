@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
       "projectName": "App1.iOS",
-      "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
       "packagesPath": "C:\\Users\\jouni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,11 +1278,16 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1\\App1.csproj"
+            "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1\\App1.csproj": {
+              "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1\\App1.csproj"
             }
           }
         }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

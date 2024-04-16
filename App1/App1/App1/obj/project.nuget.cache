@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GE2pizCHYqk0Z+9a91w5xlBKctGb+zqwlFsOP4gRYEDF3FLhUcQroYEzCofwDDIsXmMIaOaX3dSnl0tAwy/EUQ==",
+  "dgSpecHash": "Hr+lmwDPEc/dxtkLoTGtZWplYhTdlcOC7iVSVlajelFS/1vNVeKpbQTAOEN0nyn6lZtuU+m+5ke+XmZUUYuMeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1\\App1.csproj",
+  "projectFilePath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1\\App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jouni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jouni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1.Android\\App1.Android.csproj",
       "projectName": "App1.Android",
-      "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1.Android\\App1.Android.csproj",
       "packagesPath": "C:\\Users\\jouni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1.Android\\obj\\",
+      "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,11 +3439,16 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\App1\\App1\\App1\\App1.csproj"
+            "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1\\App1.csproj": {
+              "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C_sharp_kurssi\\App1\\App1\\App1\\App1.csproj"
             }
           }
         }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3452,6 +3457,14 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
+          },
+          "Xamarin.Essentials": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
