@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TzLVleGzjz8/zhmJHeHnefvJIgkW7DujmfGwBmFlwBt9MWZxx5fZk3QuhlFj/xBm4B0m9GfUutONOk2DfDRq/Q==",
+  "dgSpecHash": "B5CqKSOGMAr1/CbD1viAp5pBnJuJ7e2HPL48E/w2Hk3mpZlhhvHZ9S6P59TT8xlrhp36zyTSoeIAoFaQDg3SKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj",
+  "projectFilePath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jouni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jouni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

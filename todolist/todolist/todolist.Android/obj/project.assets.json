@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
+      "projectUniqueName": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
       "projectName": "todolist.Android",
-      "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
+      "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
       "packagesPath": "C:\\Users\\jouni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\obj\\",
+      "outputPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj": {
-              "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj"
+            "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj": {
+              "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj"
             }
           }
         }

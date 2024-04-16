@@ -1,30 +1,34 @@
 ﻿using System;
-using Xamarin.Forms;
 using System.Collections.ObjectModel;
+using Xamarin.Forms;
 
-namespace todolist
+namespace TodoList
 {
-    public class TodoItem
-    {
-        public string Name { get; set; }
-    }
-
     public partial class MainPage : ContentPage
     {
-        private ObservableCollection<TodoItem> todoItems;
+        private ObservableCollection<Task> tasks;
 
         public MainPage()
         {
             InitializeComponent();
-
-            todoItems = new ObservableCollection<TodoItem>();
-            todoList.ItemsSource = todoItems;
+            tasks = new ObservableCollection<Task>();
+            taskListView.ItemsSource = tasks;
         }
 
-        void OnAddButtonClicked(object sender, EventArgs e)
+        private void AddTaskButton_Clicked(object sender, EventArgs e)
         {
-            todoItems.Add(new TodoItem { Name = entry.Text });
-            entry.Text = string.Empty;
+            tasks.Add(new Task { Name = newTaskEntry.Text });
+            newTaskEntry.Text = string.Empty;
         }
+
+        private void ClearListButton_Clicked(object sender, EventArgs e)
+        {
+            tasks.Clear();
+        }
+    }
+
+    public class Task
+    {
+        public string Name { get; set; }
     }
 }

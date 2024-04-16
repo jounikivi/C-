@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ux3Q7cIHRmae0/Cmpe0yWfx9nMEG9x1ksjO2rmro8iufLID5kgPUT7ocS/u6XbZFpd8b43HgttJ/0hZqx8jnCA==",
+  "dgSpecHash": "IvT9fqkLF4vK0Gs+qUjC2SJBC5ihdcET0/uJ8mGWApN7j/fkylRj/mh/j8cOzcxYvNmTGcZE1BUwZeJgCuZO4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
+  "projectFilePath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jouni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jouni\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

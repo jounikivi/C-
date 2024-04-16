@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj": {}
+    "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj": {
+    "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
+        "projectUniqueName": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
         "projectName": "todolist.Android",
-        "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
+        "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\todolist.Android.csproj",
         "packagesPath": "C:\\Users\\jouni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.Android\\obj\\",
+        "outputPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj": {
-                "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj"
+              "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj": {
+                "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj": {
+    "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj",
+        "projectUniqueName": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj",
         "projectName": "todolist",
-        "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj",
+        "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj",
         "packagesPath": "C:\\Users\\jouni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\obj\\",
+        "outputPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

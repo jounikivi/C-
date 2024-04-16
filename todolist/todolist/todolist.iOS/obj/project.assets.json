@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.iOS\\todolist.iOS.csproj",
+      "projectUniqueName": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.iOS\\todolist.iOS.csproj",
       "projectName": "todolist.iOS",
-      "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.iOS\\todolist.iOS.csproj",
+      "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.iOS\\todolist.iOS.csproj",
       "packagesPath": "C:\\Users\\jouni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist.iOS\\obj\\",
+      "outputPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj": {
-              "projectPath": "C:\\Users\\jouni\\OneDrive\\Desktop\\C#\\todolist\\todolist\\todolist\\todolist.csproj"
+            "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj": {
+              "projectPath": "E:\\C_sharp_kurssi\\todolist\\todolist\\todolist\\todolist.csproj"
             }
           }
         }
